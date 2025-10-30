@@ -1,4 +1,4 @@
-# ⚡ Fleet Battery Performance Analytics Dashboard
+# ⚡ Fleet Battery Performance Analytics
 
 ## Overview
 This project presents a comprehensive **data warehousing and analytics solution** for monitoring and improving electric vehicle (EV) fleet performance.  
